@@ -1,7 +1,7 @@
 # Ollama_benchmarking
 This script tests several benchmarking tasks via `LM-Eval-Harness` across various categories like reasoning, language understanding, knowledge retrieval, and more. Below is a list of other common benchmarks you can use, organized by type of task:
 
-- lambada: Tests the ability of a model to predict the last word of a sentence in a context, requiring broad context understanding.
+- **lambada**: Tests the ability of a model to predict the last word of a sentence in a context, requiring broad context understanding.
 	
  •	piqa: Physical commonsense reasoning benchmark where the model must choose the most plausible solution to a problem.
 	•	arc_easy: Easy multiple-choice science questions from the AI2 Reasoning Challenge dataset.
