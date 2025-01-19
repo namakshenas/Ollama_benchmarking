@@ -1,0 +1,4 @@
+lm-eval
+datasets
+sentencepiece
+tabulate
